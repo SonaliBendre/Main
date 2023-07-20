@@ -1,16 +1,16 @@
 {
-    "version": "1.1.0",
+    "version": "1.1.1",
     "description": "Command-line tool for editing resources of PE executables",
     "homepage": "https://github.com/electron/rcedit",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/electron/rcedit/releases/download/v1.1.0/rcedit-x64.exe#/rcedit.exe",
-            "hash": "5c38677b872e569d508ff76856d9659edac86cde7c3f30d92bfaf58f815d1c7a"
+            "url": "https://github.com/electron/rcedit/releases/download/v1.1.1/rcedit-x64.exe#/rcedit.exe",
+            "hash": "02e8e8c5d430d8b768980f517b62d7792d690982b9ba0f7e04163cbc1a6e7915"
         },
         "32bit": {
-            "url": "https://github.com/electron/rcedit/releases/download/v1.1.0/rcedit-x86.exe#/rcedit.exe",
-            "hash": "5695f56bc339272d47518f14ff13656642499245496dfa79a84a2305736d776d"
+            "url": "https://github.com/electron/rcedit/releases/download/v1.1.1/rcedit-x86.exe#/rcedit.exe",
+            "hash": "1733e4b7e532c99b6a4ddeca1b9fff7bb1c5fd0ba7dbeb5f3520b6da03a5284f"
         }
     },
     "bin": "rcedit.exe",
